@@ -1,0 +1,103 @@
+#pragma once
+
+#define IDI_APP              101
+#define IDR_EVERYTHING_EXE   201
+#define IDR_EVERYTHING_DLL   202
+
+#define IDC_LOG_SCOPE        1100
+#define IDC_LOG_TIME         1101
+#define IDC_LOG_MULTILINE    1102
+#define IDC_LOG_PROBE        1103
+#define IDC_LOG_REFRESH      1104
+#define IDC_LOG_SELALL       1105
+#define IDC_LOG_SELNONE      1106
+#define IDC_LOG_SELINV       1107
+#define IDC_LOG_DELETE       1108
+#define IDC_LOG_OPENFOLDER   1109
+#define IDC_LOG_LIST         1110
+#define IDC_LOG_STATUS       1111
+#define IDC_LOG_PROGRESS     1112
+
+#define IDC_LARGE_THRESHOLD  1200
+#define IDC_LARGE_CUSTOM     1201
+#define IDC_LARGE_REFRESH    1202
+#define IDC_LARGE_SELALL     1203
+#define IDC_LARGE_SELNONE    1204
+#define IDC_LARGE_SELINV     1205
+#define IDC_LARGE_DELETE     1206
+#define IDC_LARGE_OPENFOLDER 1207
+#define IDC_LARGE_LIST       1208
+#define IDC_LARGE_STATUS     1209
+#define IDC_LARGE_PROGRESS   1210
+
+#define IDC_MEM_INFO         1300
+#define IDC_MEM_PURGE        1301
+#define IDC_MEM_TRIM         1302
+#define IDC_MEM_REFRESH      1303
+#define IDC_MEM_USERONLY     1304
+#define IDC_MEM_LIST         1305
+#define IDC_MEM_END          1306
+
+#define IDC_APP_LIST         1400
+#define IDC_APP_UNINSTALL    1401
+#define IDC_APP_OPENFOLDER   1402
+#define IDC_APP_OPENURL      1403
+#define IDC_APP_REFRESH      1404
+#define IDC_APP_SYSSET       1405
+#define IDC_APP_STATUS       1406
+
+#define IDC_SET_PROBE        1500
+#define IDC_SET_MULTILINE    1501
+#define IDC_SET_STOP         1502
+#define IDC_SET_USERONLY     1503
+#define IDC_SET_CAP          1504
+#define IDC_SET_MAXMB        1505
+#define IDC_SET_RESULTCAP    1506
+#define IDC_SET_EXCLUDE      1507
+#define IDC_SET_SAVE         1508
+#define IDC_SET_DEFAULT      1509
+#define IDC_SET_ABOUT        1510
+
+#define IDC_SET_LBL_CAP      1511
+#define IDC_SET_LBL_MAXMB    1512
+#define IDC_SET_LBL_RESULT   1513
+#define IDC_SET_LBL_EXCLUDE  1514
+
+#define IDC_IDLE_MODE        1700
+#define IDC_IDLE_DAYS        1701
+#define IDC_IDLE_CUSTOM      1702
+#define IDC_IDLE_REFRESH     1703
+#define IDC_IDLE_SELALL      1704
+#define IDC_IDLE_SELNONE     1705
+#define IDC_IDLE_SELINV      1706
+#define IDC_IDLE_DELETE      1707
+#define IDC_IDLE_OPENFOLDER  1708
+#define IDC_IDLE_LIST        1709
+#define IDC_IDLE_STATUS      1710
+#define IDC_IDLE_PROGRESS    1711
+#define IDC_IDLE_BASIS       1712
+
+#define IDC_ARCHIVE_REFRESH      1800
+#define IDC_ARCHIVE_SELALL       1801
+#define IDC_ARCHIVE_SELNONE      1802
+#define IDC_ARCHIVE_SELINV       1803
+#define IDC_ARCHIVE_DELETE       1804
+#define IDC_ARCHIVE_OPENFOLDER   1805
+#define IDC_ARCHIVE_LIST         1806
+#define IDC_ARCHIVE_STATUS       1807
+#define IDC_ARCHIVE_PROGRESS     1808
+
+#define IDC_INSTALLER_REFRESH      1900
+#define IDC_INSTALLER_SELALL       1901
+#define IDC_INSTALLER_SELNONE      1902
+#define IDC_INSTALLER_SELINV       1903
+#define IDC_INSTALLER_DELETE       1904
+#define IDC_INSTALLER_OPENFOLDER   1905
+#define IDC_INSTALLER_LIST         1906
+#define IDC_INSTALLER_STATUS       1907
+#define IDC_INSTALLER_PROGRESS     1908
+
+#define IDC_SYSINFO_REFRESH      2000
+#define IDC_SYSINFO_LIST         2001
+
+#define IDC_TAB              1600

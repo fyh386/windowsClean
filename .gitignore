@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+third_party/*.zip
+third_party/Everything-portable/
+third_party/Everything-SDK/
+assets/app.ico
+
