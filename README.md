@@ -11,6 +11,9 @@
   <img alt="依赖" src="https://img.shields.io/badge/%E4%BE%9D%E8%B5%96-Everything%20SDK%20%28MIT%29-8a5cff">
   <img alt="占用" src="https://img.shields.io/badge/%E7%A9%BA%E9%97%B2%20CPU-%E7%BA%A6%200%25-ffc131">
 </p>
+<p align="center">
+  <a href="https://github.com/fyh386/windowsClean/releases/latest"><b>⬇ 下载最新版 WindowsClean.exe（单文件）</b></a>
+</p>
 
 ## 功能（Windows 版）
 
